@@ -1,0 +1,60 @@
+body {
+    font-size: 14px;
+    background-color: #E1E8E3;
+    margin: 0;
+    padding: 0;
+}
+.btn{
+  height: 17vh;
+  width: calc(17vh + 1px);
+  background-color: white;
+  color: black;
+  border: 1.33px solid #333;
+  margin-right: 0;
+  font-size: 20px;
+}
+.button-list{
+  width: calc(17vh * 3.2);
+  margin-left:3vh;
+  margin-top: 10vh;
+  background: #FFF;
+  padding-right: 0;
+}
+.btn-1{
+  border-left: none;
+  border-top: none;
+}
+.btn-4{
+  border-left: none;
+}
+.btn-5{
+  border: 1.5px solid #333;
+}
+.btn-6{
+  border-right: none;
+}
+.btn-2{
+  border-top: none;
+}
+.btn-3{
+  border-top: none;
+  border-right: none;
+}
+.btn-7{
+  border-left: none;
+  border-bottom: none;
+}
+.btn-8{
+  border-bottom: none;
+}
+.btn-9{
+  border-bottom: none;
+  border-right: none;
+}
+span{
+  padding-top: 10vh;
+  font-size: 14px;
+}
+center{
+  margin-top: 16vh;
+}
